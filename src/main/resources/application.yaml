@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: catalog
+polar:
+  greeting: Welcome to the local book catalog!
